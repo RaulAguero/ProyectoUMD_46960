@@ -1,0 +1,97 @@
+  @import url('https://fonts.googleapis.com/css2?family=Anek+Tamil:wght@200&family=Assistant:wght@300;400;500;600&display=swap');
+
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+
+    /*Estilos Index*/
+
+}.contenedorNav{
+    background-color: rgb(88, 91, 88);
+    list-style: none;
+    display: flex;
+    height: 50%;
+    width: 25px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.logo {
+    width: 100px;
+    border-radius: 50%;
+    background-color: black;
+}
+
+/* estilos del footer*/
+
+.icon{
+    font-size: 3rem;
+    
+}
+
+.navegacion{
+    display: inline-block;
+    width: 15%;
+    height: 80%;
+}
+
+.listaNav{
+    display: inline-block;
+    width: 15%;
+    height: 80%;
+    background-color: aquamarine;
+    list-style: none;
+    text-align: center;
+    padding: 20px;
+    .listaItem{
+        display: flex;
+        justify-content: space-between;
+    }
+}
+
+.index{
+    background-color: rgb(32, 175, 241);
+    font-size: 40px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.332);
+}
+.subIndex{
+    text-align: center;
+
+}
+
+.actividades{
+    
+    color: black;
+}
+.Ejemplo1{
+    border-radius: 5%;
+    width: 400px;
+    height: 400px;
+}
+.EjemploBanner{
+    width: 1520px;
+    height: 400px;
+}
+body{
+    background-color: rgb(188, 235, 250);
+}
+
+.box{ 
+    margin: 30px;
+    border: 5px;
+}
+.actividades {
+    margin: 20px;
+}
+.act{
+    font-size: 25px;
+}
+.dirigentes{
+    width: 400px;
+    height: 400px;
+
+}
